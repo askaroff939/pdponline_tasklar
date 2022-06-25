@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'modul5/lesson2/task_first.dart';
+import 'pages/modul5/lesson4/home_page.dart';
+import 'pages/modul5/lesson4/intro_page.dart';
+
 
 
 
@@ -15,9 +17,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const TaskFirst(),
+      home: const IntroPage(),
       routes: {
-        TaskFirst.id: (context) => const TaskFirst(),
+        HomePage.id: (context) => const HomePage(),
+        IntroPage.id: (context) => const IntroPage(),
       },
     );
   }
