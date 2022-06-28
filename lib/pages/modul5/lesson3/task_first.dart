@@ -11,7 +11,7 @@ class TaskFirst extends StatefulWidget {
 
 class _TaskFirstState extends State<TaskFirst> {
   final List<String> _listItem = [
-    'assets/images/img.png',
+    'assets/images/ic_party.png',
     'assets/images/img_1.png',
     'assets/images/img_2.png',
     'assets/images/img_3.png',

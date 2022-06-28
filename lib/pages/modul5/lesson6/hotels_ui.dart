@@ -23,7 +23,7 @@ class _HotelsUIState extends State<HotelsUI> {
               height: 250,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                    image: AssetImage("assets/images/hotels_image/img.png"),
+                    image: AssetImage("assets/images/hotels_image/ic_party.png"),
                     fit: BoxFit.cover),
               ),
               child: Container(

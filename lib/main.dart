@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lesson_23may/pages/modul5/lesson6/hotels_ui.dart';
+import 'package:lesson_23may/pages/modul5/lesson7/party_ui.dart';
 
-import 'pages/modul5/lesson5/market_ui.dart';
 
 
 
@@ -18,9 +17,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const HotelsUI(),
+      home: const PartyUI(),
       routes: {
-        HotelsUI.id: (context) => const HotelsUI(),
+        PartyUI.id: (context) => const PartyUI(),
 
       },
     );

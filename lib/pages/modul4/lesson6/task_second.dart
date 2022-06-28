@@ -47,7 +47,7 @@ class _TaskSecondState extends State<TaskSecond> {
                     height: 55,
                     width: 55,
                     fit: BoxFit.cover,
-                    image: AssetImage("assets/images/img.png"),
+                    image: AssetImage("assets/images/ic_party.png"),
                   ),
                 ),
                 title: const Text(
