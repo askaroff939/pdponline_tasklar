@@ -33,6 +33,8 @@ flutter:
 
   assets:
     - assets/images/
+    - assets/images/cars_image/
+    - assets/images/hotels_image/
 
 
 

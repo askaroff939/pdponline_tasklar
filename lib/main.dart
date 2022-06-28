@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lesson_23may/pages/modul5/lesson6/hotels_ui.dart';
 
 import 'pages/modul5/lesson5/market_ui.dart';
 
@@ -17,9 +18,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const MarketUI(),
+      home: const HotelsUI(),
       routes: {
-        MarketUI.id: (context) => const MarketUI(),
+        HotelsUI.id: (context) => const HotelsUI(),
 
       },
     );
