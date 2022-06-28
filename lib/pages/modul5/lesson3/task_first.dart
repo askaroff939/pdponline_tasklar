@@ -13,7 +13,7 @@ class _TaskFirstState extends State<TaskFirst> {
   final List<String> _listItem = [
     'assets/images/ic_party.png',
     'assets/images/img_1.png',
-    'assets/images/img_2.png',
+    'assets/images/item_1.png',
     'assets/images/img_3.png',
     'assets/images/img_4.png',
     'assets/images/img_5.png',

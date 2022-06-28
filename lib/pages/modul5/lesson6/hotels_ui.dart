@@ -108,7 +108,7 @@ class _HotelsUIState extends State<HotelsUI> {
                           title: "Hotel1",
                         ),
                         makeItem(
-                          image: "assets/images/hotels_image/img_2.png",
+                          image: "assets/images/hotels_image/item_1.png",
                           title: "Hotel2",
                         ),
                         makeItem(
@@ -162,7 +162,7 @@ class _HotelsUIState extends State<HotelsUI> {
                           title: "Hotel2",
                         ),
                         makeItem(
-                          image: "assets/images/hotels_image/img_2.png",
+                          image: "assets/images/hotels_image/item_1.png",
                           title: "Hotel3",
                         ),
                         makeItem(
@@ -208,7 +208,7 @@ class _HotelsUIState extends State<HotelsUI> {
                           title: "Hotel1",
                         ),
                         makeItem(
-                          image: "assets/images/hotels_image/img_2.png",
+                          image: "assets/images/hotels_image/item_1.png",
                           title: "Hotel2",
                         ),
                         makeItem(
